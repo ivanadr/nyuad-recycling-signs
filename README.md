@@ -26,7 +26,7 @@ Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated t
 
 <img src="example-use.jpg" alt="drawing" width="350"/>
 
-<object data="recycling-signs.pdf" type="application/pdf">
+<object data="recycling-signs.pdf" type="application/pdf" width="350px" height="350px">
     <embed src="https://bit.ly/3zqpHiG">
         <p>Please download the PDF to view it: <a href="https://bit.ly/3zqpHiG">Download PDF</a>.</p>
     </embed>
@@ -35,7 +35,7 @@ Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated t
 ### Action item 2: Place this call to action poster somewhere in your building 
 Spread the word. For example print [this call to action pdf](https://bit.ly/3kvCiLh) with link to the images and tape in the refuse room in your building or on your floor
 
-<object data="recruit-poster.pdf" type="application/pdf">
+<object data="recruit-poster.pdf" type="application/pdf" width="350px" height="350px">
     <embed src="recruit-poster.pdf">
         <p>Please download the PDF to view it: <a href="https://bit.ly/3kvCiLh">Download PDF</a>.</p>
     </embed>
