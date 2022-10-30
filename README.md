@@ -37,7 +37,7 @@ Spread the word. For example print [this call to action pdf](https://bit.ly/3kvC
 
 <object data="recruit-poster.pdf" type="application/pdf" width="350px" height="350px">
     <embed src="recruit-poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://bit.ly/3kvCiLh">Download PDF</a>.</p>
+        <p>Please download the PDF to view it: <a href="https://bit.ly/3kvCiLh">Download PDF</a>.</p>
     </embed>
 </object>
 
