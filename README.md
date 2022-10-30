@@ -27,7 +27,7 @@ Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated t
 <img src="example-use.jpg" alt="drawing" width="350"/>
 
 <object data="recycling-signs.pdf" type="application/pdf" width="350px" height="350px">
-    <embed src="http://yoursite.com/the.pdf">
+    <embed src="recycling-signs.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
@@ -36,7 +36,7 @@ Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated t
 Spread the word. For exmaple print [this call to aciton pdf](https://bit.ly/3kvCiLh) with link to the images and tape in the refuse room in your building or on your floor
 
 <object data="recruit-poster.pdf" type="application/pdf" width="350px" height="350px">
-    <embed src="http://yoursite.com/the.pdf">
+    <embed src="recruit-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
