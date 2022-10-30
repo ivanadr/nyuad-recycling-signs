@@ -27,7 +27,7 @@ Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated t
 <img src="example-use.jpg" alt="drawing" width="350"/>
 
 <object data="recycling-signs.pdf" type="application/pdf" width="350px" height="350px">
-    <embed src="recycling-signs.pdf">
+    <embed src="https://github.com/ivanadr/nyuad-recycling-signs/blob/18c19c313c9dd90e05ae639d1f9c8fcddc051a9e/recruit-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
