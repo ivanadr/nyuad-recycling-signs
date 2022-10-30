@@ -22,7 +22,7 @@ The pictures are 'cute', respond to campus culture (e.g. campus cats) and includ
 ## Action items:
 
 ### Action item 1: Use these pre-made signs in your dorm
-Tape them on dedicated trash cans. 
+Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated trash cans in your room. Involve your roomates by pooling in trashcans or use paper bags or old Amazon or convenience store boxes. 
 
 <img src="example-use.jpg" alt="drawing" width="350"/>
 
@@ -32,8 +32,8 @@ Tape them on dedicated trash cans.
     </embed>
 </object>
 
-### Action item 2: Place this poster somewhere in your building 
-print [this pdf](recruit-poster.pdf) with link to the images and tape in the refuse room in your building or on your floor
+### Action item 2: Place this call to action poster somewhere in your building 
+Spread the word. For exmaple print [this call to aciton pdf](https://bit.ly/3kvCiLh) with link to the images and tape in the refuse room in your building or on your floor
 
 <object data="recruit-poster.pdf" type="application/pdf" width="350px" height="350px">
     <embed src="http://yoursite.com/the.pdf">
