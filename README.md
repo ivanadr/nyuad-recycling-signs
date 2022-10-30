@@ -19,12 +19,15 @@ Building on my knowledge of student life at dorm rooms, this campaign is an invi
 
 The pictures are 'cute', respond to campus culture (e.g. campus cats) and include an educational description. although not included here right now, I suggest also including pure text labels such as 'Plastic' and 'Paper' in addition to the pictures (feel free to add them into the repository here or send them to me). 
 
+
+##Exampple use
+
+<img src="example-use.jpg" alt="drawing" width="350"/>
+
 ## Action items:
 
 ### Action item 1: Use these pre-made signs in your dorm
 Print [this pdf with signs](https://bit.ly/3zqpHiG) and tape them on dedicated trash cans in your room. Involve your roommates by pooling in trashcans or use paper bags or old Amazon or convenience store boxes. 
-
-<img src="example-use.jpg" alt="drawing" width="350"/>
 
 <object data="recycling-signs.pdf" type="application/pdf" width="350px" height="350px">
     <embed src="https://bit.ly/3zqpHiG">
