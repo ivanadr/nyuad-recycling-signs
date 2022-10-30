@@ -4,20 +4,20 @@ Cute signs that nudge and guide students to recycle
 ## Introduction
 After taking the Class Plastic Fantastic, my friend Hannah Greene made me realise I had been recycling incorrectly. All plastic should be washed before it is recycled, otherwise, it will be thrown into the general trash. What is more, a dirty load of plastic will contaminate the big trash can in the refuse room and make the effort of the whole building go to waste. The same goes for plastic straws and tissues. Many people throw tissues into recycling but tissues cannot be recycled. Masks should be recycled separately as well. 
 
-## Problem statement
+TLDR: Recycling contamination destroys the value that others created by recycling. As a result, recycled materials cannot be utilised further in a circular economy (["when materials are sorted into the wrong recycling bin"](https://www.rubicon.com/blog/recycling-contamination/)).
 
+## Problem statement
 Recycling rules change by country and community. Hence, it is important that we follow local guidelines. Although I am happy that some infrastructure for recycling is in place at New York University Abu Dhabi (e.g. trashcans around campus, big recycling cans in each building), I observed that many students do not participate in recycling in their dorm rooms. The key reasons I identified for this behaviour are:  
 
 * lack of incentives 
 * lack of recycling infrastructure close to the place of waste production within dorm rooms
 * lack of knowledge
-* recycling contamination and hence destroying the value that others created by recycling (["when materials are sorted into the wrong recycling bin"](https://www.rubicon.com/blog/recycling-contamination/))
 
 ## Project purpose
 
 Building on my knowledge of student life at dorm rooms, this campaign is an invitation for the community to create infrastructure to recycle within their own dorm rooms. No such infrastructure currently exists at dorm-room level, which makes it less likely that students will recycle. Furthermore, building recycling habits is a desired transformation.  
 
-The pictures are 'cute', respond to campus culture (e.g. campus cats) and include an educational description. although not included here right now, I suggest also including pure text labels such as 'Plastic' and 'Paper' in addition to the pictures (feel free to add them into the repository here or send them to me). 
+The pictures are 'cute', respond to campus culture (e.g. campus cats) and include an educational description. Although it is not included here right now, I suggest also including pure text labels such as 'Plastic' and 'Paper' in addition to the pictures (feel free to add them into the repository here or send them to me). 
 
 
 ## Example use
@@ -45,7 +45,7 @@ Spread the word. For example print [this call to action pdf](https://bit.ly/3kvC
 </object>
 
 ### Action item 3: Modify the signs in Canva
-Here is a [Canva link](https://www.canva.com/design/DAEoNXc-CSo/AZLSTdEgBs8STvsxkYUTyA/view?utm_content=DAEoNXc-CSo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview ) that allows you to continue editing and make it your own if you need to 
+Here is a [Canva link](https://www.canva.com/design/DAEoNXc-CSo/AZLSTdEgBs8STvsxkYUTyA/view?utm_content=DAEoNXc-CSo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) that allows you to continue editing and make it your own if you need to 
 
  
 ## Image sources 
