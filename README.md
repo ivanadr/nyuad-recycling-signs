@@ -20,7 +20,7 @@ Building on my knowledge of student life at dorm rooms, this campaign is an invi
 The pictures are 'cute', respond to campus culture (e.g. campus cats) and include an educational description. although not included here right now, I suggest also including pure text labels such as 'Plastic' and 'Paper' in addition to the pictures (feel free to add them into the repository here or send them to me). 
 
 
-##Exampple use
+## Example use
 
 <img src="example-use.jpg" alt="drawing" width="350"/>
 
